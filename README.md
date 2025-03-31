@@ -6,6 +6,9 @@ Goal and description of project:
 <br>
 <br>
     Student Name: Amirhosein Salami
+    <br>
     Student ID: 401106052
+    <br>
     Course: Mobile Programming
+    <br>
     Instructor: Alireza Delavar & Pouya Yarandi
