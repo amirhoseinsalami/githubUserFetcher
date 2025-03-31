@@ -1,3 +1,4 @@
+Goal and description of project:
 ![image](https://github.com/user-attachments/assets/f484db91-63cf-47ca-8bb9-7b68d23fa21a)
 
     Student Name: Amirhosein Salami
